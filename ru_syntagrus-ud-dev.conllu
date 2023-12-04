@@ -1,0 +1,20 @@
+# Added to SynTagRus 2015–2020.
+# sent_id = 2020_RFFIInstrument_yazyka_1.xml_619
+# genre = fiction
+# text = В наши дни, когда никто никого не слушает, внимание - большая редкость.
+1	В	в	ADP	_	_	3	case	3:case	_
+2	наши	наш	DET	_	Animacy=Inan|Case=Acc|Number=Plur	3	det	3:det	_
+3	дни	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	14	obl	14:obl:в:acc	SpaceAfter=No
+4	,	,	PUNCT	_	_	9	punct	9:punct	_
+5	когда	когда	ADV	_	Degree=Pos	9	advmod	9:advmod	_
+6	никто	никто	PRON	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj	_
+7	никого	никто	PRON	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	obj	9:obj	_
+8	не	не	PART	_	Polarity=Neg	9	advmod	9:advmod	_
+9	слушает	слушать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	9:punct	_
+11	внимание	внимание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	14	nsubj	14:nsubj	_
+12	-	-	PUNCT	_	_	11	punct	11:punct	_
+13	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	amod	14:amod	_
+14	редкость	редкость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
+15	.	.	PUNCT	_	_	14	punct	14:punct	_
+
