@@ -6,4 +6,4 @@ It was developed by using Hidden Markov Model and rule-based Viterbi algorithm.
 5) Building own NLTK corpus
 
 During developing these methods have been used "ru_syntagrus-ud-dev.conllu" treebank dataset, where each sentense was parsed from different sources and each word was tagged by pos, lemmas, morphology feature and Universal Dependencies(UD) syntax.
-Really dataset consists of more than 1 million raws of parsed sentenses.(130 MB)
+Real dataset consists of more than 1 million raws of parsed sentenses.(130 MB)
